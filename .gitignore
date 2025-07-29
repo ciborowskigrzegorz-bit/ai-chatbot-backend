@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+*.sqlite3
+
+# Virtualenv
+.venv/
+env/
+venv/
+ENV/
+*.env
+.env.*
+
+# Pytest
+htmlcov/
+.cache/
+.pytest_cache/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.swp
+*.bak
+.DS_Store
+
+# Docker
+*.pid
+*.seed
+*.tar
+*.tar.gz
+
+# mypy / lint
+.mypy_cache/
+.coverage
+.tox/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Ignore models (optionally)
+model_weights/
+checkpoints/
+
+# OS
+Thumbs.db
+ehthumbs.db
