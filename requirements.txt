@@ -4,5 +4,5 @@ python-dotenv
 uvicorn
 openai
 transformers
-#torch
+torch
 pytest>=7.0
