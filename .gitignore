@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+*.pyc
 *.so
 *.log
 *.sqlite3
@@ -12,6 +13,7 @@ __pycache__/
 env/
 venv/
 ENV/
+.env
 *.env
 .env.*
 

@@ -1,4 +1,6 @@
 fastapi
+flask
+python-dotenv
 uvicorn
 openai
 transformers
